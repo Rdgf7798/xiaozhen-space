@@ -48,9 +48,6 @@ export const LoginPage = () => {
           <p className="text-cyber-text-muted font-rajdhani text-xl">
             您的私人珍藏空间
           </p>
-          <p className="text-cyber-text-muted/60 font-rajdhani text-sm mt-2">
-            普通密码：cinema2024 | 管理员密码：20100719zzq
-          </p>
         </div>
 
         <form onSubmit={handleSubmit} className="bg-cyber-card/30 backdrop-blur-md rounded-2xl p-8 border border-cyber-cyan/30 shadow-neon-cyan/20">
